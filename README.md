@@ -10,4 +10,4 @@ It's intereting, but I have to learn and work more over it for use in a real cas
 For example, I have to selected better samples. 
 The Pepsi profile that I selected has less photos than the other two brands.
 And having less photos the model don't know with sure what its pepsi, 
-and turn its a ambiguous for he to recognize which brand is Coca-Cola, and which brand is Pepsi.
+and turn it ambiguous for he to recognize which brand is Coca-Cola, and which brand is Pepsi.
